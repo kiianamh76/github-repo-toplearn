@@ -5,3 +5,5 @@ Add login feature.
 Add register feature.
 
 Add login feature2.
+
+Add register2 feature.
